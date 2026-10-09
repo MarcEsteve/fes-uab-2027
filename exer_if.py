@@ -1,0 +1,1 @@
+# Exerci 1 de condicionals
